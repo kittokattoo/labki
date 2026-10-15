@@ -1,3 +1,5 @@
+'use strict';
+
 function ages(persons) {
     const result = {};
 
