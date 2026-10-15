@@ -1,3 +1,5 @@
+'use strict';
+
 function max(matrix) {
     let maximum = matrix[0][0];
 
