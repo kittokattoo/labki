@@ -1,3 +1,5 @@
+'use strict';
+
 function sum(...args) {
     return args.reduce((result, num) => result + num, 0);
 }
